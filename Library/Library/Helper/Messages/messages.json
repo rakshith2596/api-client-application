@@ -1,0 +1,6 @@
+[
+  { "Records_Retrieved": "Details of Book fetched successfully" },
+  { "Records_Retrieve_Fail": "Could not fetch the book details" },
+  { "Record_Save_Success": "Record Saved successfully" },
+  { "Record_Save_Failure": "Error in saving the details" }
+]
